@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+Screenshot of the Application.
+
+![a1](https://github.com/user-attachments/assets/ee43d44e-1646-4489-ab43-c9ea0e3a9196),![a2](https://github.com/user-attachments/assets/14111699-4223-448f-a076-191b6e704be9)
 
 This project is a starting point for a Flutter application.
 
